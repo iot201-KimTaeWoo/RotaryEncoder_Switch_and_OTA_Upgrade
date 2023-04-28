@@ -1,0 +1,12 @@
+{
+   "meta":{
+      "pubInterval":"5000"
+   },
+   "ssid":"yPhone",
+   "w_pw":"passw0rd",
+   "org":"m1urkr",
+   "devType":"vDev",
+   "devId":"vValve",
+   "token":"passw0rd",
+   "config":"done"
+}
